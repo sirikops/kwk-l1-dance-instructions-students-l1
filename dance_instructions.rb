@@ -1,6 +1,6 @@
 
 # Code your methods below
-def stance
+def starting_stance
   puts "Plants legs far apart, bend knees slightly and keep posture loose."
 end
 stance
